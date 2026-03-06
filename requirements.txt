@@ -1,0 +1,8 @@
+torch==2.10.0+cpu
+numpy==2.3.5
+sentence-transformers==5.2.3
+chromadb==1.5.2
+streamlit==1.54.0
+transformers==5.2.0
+scipy==1.17.1
+scikit-learn==1.8.0
